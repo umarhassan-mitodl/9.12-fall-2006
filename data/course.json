@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "legacy_uid": "f7c833cf-1208-4fe4-ac57-44005e2b641b",
+  "instructors": {
+    "content": [
+      "c585f95e-a9f6-c27e-f8d1-184ec943a8c1",
+      "0e6c99ac-565a-b0de-0681-228bddeb8900"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f32614f0-4249-74af-43cf-4379107d3e4f",
+    "website": "9-12-experimental-molecular-neurobiology-fall-2006"
+  },
+  "course_title": "Experimental Molecular Neurobiology",
+  "course_description": "Designed for students without previous experience in techniques of cellular and molecular biology, this class teaches basic experimental techniques in cellular and molecular neurobiology. Experimental approaches covered include tissue culture of neuronal cell lines, dissection and culture of brain cells, DNA manipulation, synaptic protein analysis, immunocytochemistry, and fluorescent microscopy.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.12",
+  "course_image_thumbnail": {
+    "content": "baaa523a-d110-e03e-7f3e-b6b9b71ff1c1",
+    "website": "9-12-experimental-molecular-neurobiology-fall-2006"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "88b8e63f-cb3c-4be8-b161-3e1de6dfae27",
+  "site_short_id": "9.12-fall-2006",
+  "site_url_path": "courses/9-12-experimental-molecular-neurobiology-fall-2006",
+  "title": "Course Metadata"
+}
